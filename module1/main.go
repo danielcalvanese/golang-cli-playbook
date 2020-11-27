@@ -1,6 +1,8 @@
 package module1
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	fmt.Println("hello world")
